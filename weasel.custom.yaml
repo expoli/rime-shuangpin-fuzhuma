@@ -1,0 +1,4 @@
+patch:
+  "style/horizontal": false               # true 横向 | false 竖向
+  "style/color_scheme": lost_temple       # 默认配色方案
+  "style/color_scheme_dark": lost_temple  # 深色模式下，Weasel 的配色方案，Windows 10 1809+ 可用
